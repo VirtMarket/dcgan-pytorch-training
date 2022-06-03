@@ -1,0 +1,5 @@
+data: 
+  dataroot: "./../data/celeba" # Root directory for dataset
+  workers: 2 # Number of workers for dataloader
+  image_size: 64 # Spatial size of training images. All images will be resized to this size using a transformer.
+  nc: 3 # Number of channels in the training images. For color images this is 3
