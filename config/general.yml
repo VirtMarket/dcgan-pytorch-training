@@ -1,0 +1,5 @@
+general:
+  checkpoint:
+    start_from_checkpoint: True
+    path: "./../data/checkpoints"
+    version: "dcgan_pytorch_20220606_135648.pt"
